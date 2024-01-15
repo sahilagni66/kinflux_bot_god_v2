@@ -5,10 +5,10 @@ let pp = './kinfluxbot.jpg'
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850) 
 let lkr = `❀° ┄──•••───╮
-      𝐊𝐈𝐍𝐅𝐋𝐔𝐗 𝐁𝐎𝐓 𝙈𝙀𝙉𝙐  
+      𝐅𝖾ᥣ𝗂𝗑  
 ╰───•••──┄ °❀    
-bot created by kinflux digital
-┌─⊷ *KINFLUX BOT*
+bot created by 𝐅𝖾ᥣ𝗂𝗑
+┌─⊷ *𝐅𝖾ᥣ𝗂𝗑*
 ▢ .blocklist
 ▢ .info
 ▢ .owner
@@ -206,7 +206,7 @@ bot created by kinflux digital
 ▢ .unbanchat
 ▢ .unban @user
 ▢ .update
-group link  https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28
+group link  https://chat.whatsapp.com/EOojWFPhi2204G7mEFFKXc
 └───────────
 
 ┌─⊷ *ADVANCED*
